@@ -24,5 +24,5 @@ Apache license.
 The `.clang-format` was shamelessly taken from [Chatterino, which is licensed
 under MIT][c2license].
 
-- [example]: https://github.com/coveooss/clang-tidy-plugin-examples/
-- [c2license]: https://github.com/Chatterino/chatterino2/blob/master/LICENSE
+[example]: https://github.com/coveooss/clang-tidy-plugin-examples/
+[c2license]: https://github.com/Chatterino/chatterino2/blob/master/LICENSE
